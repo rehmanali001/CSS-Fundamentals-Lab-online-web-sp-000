@@ -3,3 +3,20 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+section figure {
+  text-align: center;
+}
+
+section#featured-property p {
+  text-align: center;
+  width: 800px
+}
+
+section#details {
+  display: 
+}
