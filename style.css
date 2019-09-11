@@ -14,9 +14,10 @@ section figure {
 
 section#featured-property p {
   text-align: center;
-  width: 800px
+  width: 800px;
 }
 
 section#details div {
-  display: block
+  display: block;
+  float: left;
 }
