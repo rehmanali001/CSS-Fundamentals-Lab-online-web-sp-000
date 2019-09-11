@@ -17,6 +17,6 @@ section#featured-property p {
   width: 800px
 }
 
-section#details {
+section#details div {
   display: block
 }
